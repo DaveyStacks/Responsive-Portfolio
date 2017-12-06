@@ -277,12 +277,11 @@ input[type=submit] {
 @media all and (max-width:640px) {
   
   #logo {
-    width: 100%
+    width: 95%;
   }
 
   #navlinky {
-    width: 100%;
-    text-align: center;
+    width: 90%;
   }
 
 .navlinks {
