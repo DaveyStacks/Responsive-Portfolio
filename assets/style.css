@@ -250,6 +250,9 @@ input[type=submit] {
   margin: 20px;
 }
 
+.navlinks {
+  padding: none;
+}
 
 }
 
