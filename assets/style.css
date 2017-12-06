@@ -277,9 +277,9 @@ input[type=submit] {
 @media all and (max-width:640px) {
   
   .masthead {
-    position: static;
+    position: sticky;
   }
-  
+
   #logo {
     width: 95%;
   }
