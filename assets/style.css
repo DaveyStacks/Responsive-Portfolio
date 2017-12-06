@@ -237,3 +237,52 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+@media all and (max-width:768px) and (min-width: 641px) {
+
+.main-section {
+  min-width: 95%;
+  margin: 20px;
+}
+
+.sidebar {
+  min-width: 95%;
+  margin: 20px;
+}
+
+
+}
+
+@media all and (max-width:640px) {
+  
+  #logo {
+    width: 100%
+  }
+
+  #navlinky {
+    width: 100%;
+    text-align: center;
+  }
+
+.navlinks {
+  width: 30%;
+}
+
+.main-section {
+  width: 95%;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+
+.maincontainer {
+  width: 100%;
+  max-width: 95%;
+  margin-right: 20px;
+}
+
+.sidebar {
+  min-width: 95%;
+  margin-right: 20px;
+}
+
+}
